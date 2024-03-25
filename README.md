@@ -1,8 +1,8 @@
-Resto
+## Resto
 Static website display menus and services
 
-Technologies used
+## Technologies used
 HTML5,CSS3,VanilaJs
 
-Url
+## Url
 https://joyalrebera.github.io/food-app
