@@ -1,5 +1,5 @@
 ## Resto
-Static website display menus and services
+Static website display menu and services
 
 ## Technologies used
 HTML5,CSS3,VanilaJs
